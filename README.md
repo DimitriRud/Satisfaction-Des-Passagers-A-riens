@@ -12,7 +12,8 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<div style="text-align:center"><a href="https://docs.google.com/presentation/d/1xZyP2aMUz77MkY--vplO-l3r51uxLXpX2c8ILC20iGc/edit"><img src="Airline Presentation Cover.png" alt="Airline Presentation Cover" height="300"/></a></div>
+<img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/bdfe9be2-f124-45ed-a88d-9c6cd392c733)](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/400b337d-d4a9-4112-a612-e698ae7f3e63" alt="Airplane" width="100"/>
+
 
 ## Project Description
 **Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/).
