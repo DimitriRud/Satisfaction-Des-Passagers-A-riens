@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Jedha Logo" width="50"/>
 
-# Analyse De Satisfaction Des Passagers Aériens (par Dimitri Rudenko)
+# Analyse De Satisfaction Des Passagers Aériens
 **Dimitri Rudenko**
 
 *Data Analytics Full-Time FEB2021, Paris & March 25th 2021*
