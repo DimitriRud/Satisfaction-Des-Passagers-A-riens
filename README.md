@@ -1,4 +1,4 @@
-![Jedha Logo](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/bdfe9be2-f124-45ed-a88d-9c6cd392c733)
+<img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/bdfe9be2-f124-45ed-a88d-9c6cd392c733)" alt="Jedha Logo" width="100"/>
 
 # Analyse De Satisfaction Des Passagers Aériens
 **Dimitri Rudenko**
