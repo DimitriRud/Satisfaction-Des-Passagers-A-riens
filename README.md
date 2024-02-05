@@ -5,15 +5,14 @@
 
 *Data Analytics Full-Time FEB2021, Paris & March 25th 2021*
 
+<img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/9555814d-f9b0-4285-b992-a50aab227953" alt="airplane" width="1000"/>
+
 ## Content
 - [Project Description](#project-description)
 - [Objective](#objective)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
-
-<img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/bdfe9be2-f124-45ed-a88d-9c6cd392c733)](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/400b337d-d4a9-4112-a612-e698ae7f3e63" alt="Airplane" width="100"/>
-
 
 ## Project Description
 **Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/).
