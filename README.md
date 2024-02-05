@@ -1,9 +1,7 @@
+<img src="https://bit.ly/2VnXWr2" alt="Jedha Logo" width="50"/>
+
 # Analyse De Satisfaction Des Passagers Aériens (par Dimitri Rudenko)
-
-<img src="[[bit.ly/2VnXWr2](https://images.app.goo.gl/PX4iABWwZaL9GsZY6](https://drive.google.com/file/d/1kx_qFf-VF5tJS02MLDS4tcZrYphYnCvZ/view?usp=drive_link)" alt="Jedha Logo" width="50"/>
-
-# Airline Passengers Satisfaction Classification by Léo
-**Leonardo Cavalcante Araújo**
+**Dimitri Rudenko**
 
 *Data Analytics Full-Time FEB2021, Paris & March 25th 2021*
 
