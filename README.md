@@ -3,18 +3,18 @@
 # Analyse De Satisfaction Des Passagers Aériens
 **Dimitri Rudenko**
 
-*Data Analytics Full-Time FEB2021, Paris & March 25th 2021*
+*Machine Learning Engineer - Block 6 - Lead a Data Project with Jedha, Valence & Jan-Fev 2024*
 
 <img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/9555814d-f9b0-4285-b992-a50aab227953" alt="airplane" width="1000"/>
 
 ## Content
-- [Project Description](#project-description)
-- [Objective](#objective)
-- [Workflow](#workflow)
+- [Description du Projet](#Description du Projet)
+- [Objectif](#objective)
+- [Flux du travail](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
-## Project Description
+## Description du Projet
 **Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/).
 
 ### Content of the dataset
