@@ -3,7 +3,7 @@
 # Analyse De Satisfaction Des Passagers Aériens
 **Dimitri Rudenko**
 
-*Machine Learning Engineer - Block 6 - Lead a Data Project with Jedha, Valence & Jan-Fev 2024*
+*Machine Learning Engineer - Block 6 - Lead a Data Project avec Jedha, Valence & Jan-Fev 2024*
 
 <img src="https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/assets/79415358/9555814d-f9b0-4285-b992-a50aab227953" alt="airplane" width="1000"/>
 
@@ -16,12 +16,12 @@
 - [Liens](#liens)
 
 ## Description du Projet
-**Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/).
+**Analyse des clients**: Analyse des données et visualisations à l'aide de [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) de [Kaggle](https://www.kaggle.com/).
 
 ### Dataset
-- **Socio-demographics** data from customers.
-- **Service attributes satisfaction grades** given by the customers.
-- **Satisfaction/Dissatisfaction** of customers.
+- **Données socio-démographiques** de clients.
+- **Notes de satisfaction de service** données par les clients.
+- **Satisfaction/Dissatisfaction** de clients.
 
 ## Objectif
 - **Predict dissatisfaction**: predictive analysis using `sklearn` library.
