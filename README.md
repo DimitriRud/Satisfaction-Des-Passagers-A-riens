@@ -9,24 +9,25 @@
 
 ## Content
 - [Description du Projet](#Description-du-Projet)
-- [Objectif](#objective)
-- [Flux du travail](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+- [DataSet](#Dataset)
+- [Objectif](#objectif)
+- [Flux du travail](#flux-du-travail)
+- [Organisation](#organisation)
+- [Liens](#liens)
 
 ## Description du Projet
 **Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/).
 
-### Content of the dataset
+### Dataset
 - **Socio-demographics** data from customers.
 - **Service attributes satisfaction grades** given by the customers.
 - **Satisfaction/Dissatisfaction** of customers.
 
-## Objective
+## Objectif
 - **Predict dissatisfaction**: predictive analysis using `sklearn` library.
 - **Customers Clustering**: classification analysis using `sklearn` library.
 
-## Workflow
+## Flux du travail
 1. Data search, import and setting the libraries `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and `SKlearn`.
 2. Data cleaning Clean data and prepare for analysis.
 3. Data Analysis and Visualization.
@@ -34,12 +35,12 @@
 6. **Customer Clustering**: same steps as before, but with one difference: features transformation with **Principal Component Analysis (PCA)**. Thus, clustering customers in 5 different customer segments.
 7. Presentation: construction and oral presentation to the students of Ironhack Data Cohort.
 
-## Organization
+## Organisation
 - Repository "https://github.com/leo-cavalcante/airline-passenger-satisfaction" : you may find the main Python code as well as the data used. You may find the Google Slides in the 'Links' section below or by clicking on the cover photo on this document.
 
 *PS.: individual project.*
 
-## Links
+## Liens
 Here you may find the relevant links for the repository, the main code and the final presentation slides.
 
 [GitHub Repository: airline-passenger-satisfaction](https://github.com/leo-cavalcante/airline-passenger-satisfaction)  
