@@ -24,16 +24,18 @@
 - **Satisfaction/Dissatisfaction** de clients.
 
 ## Objectif
-- **Prédire l'Insatisfaction**: l'analyse prédictive à l'aide de la bibliothèque `sklearn`.
-- **Analyse et Visualisation des données**: avec la bibliothèque `sklearn`.
+- **Analyse et Visualisation des données**: avec la bibliothèque `Matplotlib`.
+- **Prédire l'Insatisfaction**: l'analyse prédictive à l'aide de la bibliothèque `Sklearn`.
 
 ## Flux du travail
-1. Data search, import and setting the libraries `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and `SKlearn`.
-2. Data cleaning Clean data and prepare for analysis.
-3. Data Analysis and Visualization.
-5. **Dissatisfaction Prediction Analysis**: dataset preparation, normalization of attributes, one hot encoding, feature selection and applying model.
-6. **Customer Clustering**: same steps as before, but with one difference: features transformation with **Principal Component Analysis (PCA)**. Thus, clustering customers in 5 different customer segments.
-7. Presentation: construction and oral presentation to the students of Ironhack Data Cohort.
+1. Recherche de données, importation et paramétrage des bibliothèques `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` et `SKlearn`.
+2. Nettoyage des données.
+3. Affichage des diagrammes et Création des graphiques supplémentaires à l'étape de l'analyse des données.
+4. Encodage des données avant la création du modèle.
+5. Construction des modèles
+6. **Dissatisfaction Prediction Analysis**: dataset preparation, normalization of attributes, one hot encoding, feature selection and applying model.
+7. **Customer Clustering**: same steps as before, but with one difference: features transformation with **Principal Component Analysis (PCA)**. Thus, clustering customers in 5 different customer segments.
+8. Presentation: construction and oral presentation to the students of Ironhack Data Cohort.
 
 ## Organisation
 - Repository "https://github.com/leo-cavalcante/airline-passenger-satisfaction" : you may find the main Python code as well as the data used. You may find the Google Slides in the 'Links' section below or by clicking on the cover photo on this document.
