@@ -24,7 +24,7 @@
 - **Satisfaction/Dissatisfaction** de clients.
 
 ## Objectif
-- **Analyse et Visualisation des données**: avec la bibliothèque `Matplotlib`.
+- **Analyse et Visualisation des données**: avec `SQL Google Cloud` et la bibliothèque `Matplotlib`.
 - **Prédire l'Insatisfaction**: l'analyse prédictive à l'aide de la bibliothèque `Sklearn`.
 
 ## Flux du travail
@@ -49,6 +49,6 @@
 
 [Google Colab: Satisfaction Des Passagers Aeriens Code Model](https://colab.research.google.com/drive/1H8ZxZu2-vwI92hCWNSJO7k6IuAWXgByY?usp=sharing)  
 
-[SQL Cloud Code: Satisfaction Des Passagers Aeriens SQL Code](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/blob/main/Satisfaction_Des_Passagers_Ae%CC%81riens_SQL_Code.pdf) 
+[SQL Google Cloud Code: Satisfaction Des Passagers Aeriens SQL Code](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/blob/main/Satisfaction_Des_Passagers_Ae%CC%81riens_SQL_Code.pdf) 
 
 
