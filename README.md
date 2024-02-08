@@ -43,7 +43,7 @@
 ## Liens
 Here you may find the relevant links for the repository, the main code and the final presentation slides.
 
-[GitHub Repository: airline-passenger-satisfaction](https://github.com/leo-cavalcante/airline-passenger-satisfaction)  
+[GitHub Repository: airline-passenger-satisfaction](https://github.com/leo-cavalcante/airline-passenger-satisfaction](https://github.com/leo-cavalcante/airline-passenger-satisfaction)  
 
 [Google Slides: Airline marketing Study Presentation](https://docs.google.com/presentation/d/1xZyP2aMUz77MkY--vplO-l3r51uxLXpX2c8ILC20iGc/edit)
 
