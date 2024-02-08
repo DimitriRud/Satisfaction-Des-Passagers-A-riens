@@ -36,7 +36,7 @@
 6. Test de modèle `RandomForestClassifier` manuelement
 
 ## Organisation
-- Référentiel "[Lien](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)":
+- Référentiel [Lien](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens):
   vous pouvez retrouver les codes Python et SQL principaux, les données utilisées et les Google slides.
   /!\ Il est préférable de regarder le code dans Google Colab. Vous pouvez y accéder en utilisant le lien Google Colab qui se trouve en haut du document .ipynb ou par le lien ci-dessus.
 
