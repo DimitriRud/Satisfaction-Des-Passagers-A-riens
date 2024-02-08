@@ -43,9 +43,9 @@
 ## Liens
 Here you may find the relevant links for the repository, the main code and the final presentation slides.
 
-[GitHub Repository: airline-passenger-satisfaction](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
+[GitHub Repository: Satisfaction-Des-Passagers-Aeriens](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
 
 [Google Slides: Airline marketing Study Presentation](https://docs.google.com/presentation/d/1xZyP2aMUz77MkY--vplO-l3r51uxLXpX2c8ILC20iGc/edit)
 
-[Jupyter Notebook: Airline Passenger Satisfaction](https://github.com/leo-cavalcante/airline-passenger-satisfaction/blob/main/Airline%20Passenger%20Satisfaction.ipynb)  
+[Google Colab: Satisfaction Des Passagers Aeriens Code Model](https://colab.research.google.com/drive/1H8ZxZu2-vwI92hCWNSJO7k6IuAWXgByY?usp=sharing)  
 
