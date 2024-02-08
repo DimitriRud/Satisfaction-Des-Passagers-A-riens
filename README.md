@@ -41,7 +41,7 @@
   /!\ Il est préférable de regarder le code dans Google Colab. Vous pouvez y accéder en utilisant le lien Google Colab qui se trouve en haut du document .ipynb ou par le lien ci-dessus.
 
 ## Liens
-Here you may find the relevant links for the repository, the main code and the final presentation slides.
+- Vous trouverez ici les liens pertinents pour le référentiel, le code principal et les diapositives de présentation finale:
 
 [GitHub Repository: Satisfaction-Des-Passagers-Aeriens](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
 
