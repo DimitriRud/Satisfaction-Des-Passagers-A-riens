@@ -18,14 +18,14 @@
 ## Description du Projet
 **Analyse des clients**: Analyse des données et visualisations à l'aide de [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) de [Kaggle](https://www.kaggle.com/).
 
-### Dataset
+## Dataset
 - **Données socio-démographiques** de clients.
 - **Notes de satisfaction de service** données par les clients.
 - **Satisfaction/Dissatisfaction** de clients.
 
 ## Objectif
-- **Predict dissatisfaction**: predictive analysis using `sklearn` library.
-- **Customers Clustering**: classification analysis using `sklearn` library.
+- **Prédire l'Insatisfaction**: l'analyse prédictive à l'aide de la bibliothèque `sklearn`.
+- **Analyse et Visualisation des données**: avec la bibliothèque `sklearn`.
 
 ## Flux du travail
 1. Data search, import and setting the libraries `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and `SKlearn`.
