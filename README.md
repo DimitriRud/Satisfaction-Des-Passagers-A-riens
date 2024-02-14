@@ -45,7 +45,7 @@
 
 [GitHub Repository: Satisfaction-Des-Passagers-Aeriens](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
 
-[Google Slides: Airline marketing Study Presentation](https://docs.google.com/presentation/d/1xZyP2aMUz77MkY--vplO-l3r51uxLXpX2c8ILC20iGc/edit)
+[Google Slides: Airline marketing Study Presentation](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens/blob/2f25ebfb30df1d68c178cb225105699177f4ecb1/Pre%CC%81sentation_E%CC%81tude_Marketing_Dimitri_Rudenko%20(1).pptx)
 
 [Tableau Public: Dashboard](https://public.tableau.com/views/SatisfactiondesPassagersAeriens/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
