@@ -45,13 +45,13 @@
 
 [GitHub Repository: Satisfaction-Des-Passagers-Aeriens](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
 
-[Google Slides: Études Marketing de la Compagnie Aérienne](https://docs.google.com/presentation/d/1hH45JHF_rVVUf0p-ssSiiOLZprWd8uowUVu8CtOV5lc/edit?usp=drive_link)
+[Google Slides: Présentation Études Marketing de la Compagnie Aérienne](https://docs.google.com/presentation/d/1hH45JHF_rVVUf0p-ssSiiOLZprWd8uowUVu8CtOV5lc/edit?usp=drive_link)
 
 [Tableau Public: Dashboard](https://public.tableau.com/views/SatisfactiondesPassagersAeriens/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Google Colab (Python Code Model): Satisfaction Des Passagers Aeriens](https://colab.research.google.com/drive/1H8ZxZu2-vwI92hCWNSJO7k6IuAWXgByY?usp=sharing)  
 
-[SQL Google Cloud Code: Satisfaction Des Passagers Aeriens SQL Code](SQL_Code_Satisfaction_Des_Passagers_Aériens.pdf) 
+[Google Cloud (SQL Code): Satisfaction Des Passagers Aeriens](SQL_Code_Satisfaction_Des_Passagers_Aériens.pdf) 
 
 
 
