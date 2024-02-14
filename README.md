@@ -49,7 +49,7 @@
 
 [Tableau Public: Dashboard](https://public.tableau.com/views/SatisfactiondesPassagersAeriens/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[Google Colab: Satisfaction Des Passagers Aeriens Code Model](https://colab.research.google.com/drive/1H8ZxZu2-vwI92hCWNSJO7k6IuAWXgByY?usp=sharing)  
+[Google Colab (Python Code Model): Satisfaction Des Passagers Aeriens](https://colab.research.google.com/drive/1H8ZxZu2-vwI92hCWNSJO7k6IuAWXgByY?usp=sharing)  
 
 [SQL Google Cloud Code: Satisfaction Des Passagers Aeriens SQL Code](SQL_Code_Satisfaction_Des_Passagers_Aériens.pdf) 
 
