@@ -45,7 +45,7 @@
 
 [GitHub Repository: Satisfaction-Des-Passagers-Aeriens](https://github.com/DimitriRud/Satisfaction-Des-Passagers-Aeriens)
 
-[Google Slides: Présentation Études Marketing de la Compagnie Aérienne](https://docs.google.com/presentation/d/1hH45JHF_rVVUf0p-ssSiiOLZprWd8uowUVu8CtOV5lc/edit?usp=drive_link)
+[Google Slides: Présentation Études Marketing de la Compagnie Aérienne](https://docs.google.com/presentation/d/1hH45JHF_rVVUf0p-ssSiiOLZprWd8uowUVu8CtOV5lc/edit?usp=sharing)
 
 [Tableau Public: Dashboard](https://public.tableau.com/views/SatisfactiondesPassagersAeriens/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
